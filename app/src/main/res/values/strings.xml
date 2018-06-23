@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlickerImagesDownloadDemo</string>
+    <string name="col_2">Col 2</string>
+    <string name="col_3">Col 3</string>
+    <string name="col_4">Col 4</string>
+    <string name="search">Search</string>
+</resources>
